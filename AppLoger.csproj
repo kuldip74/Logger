@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <PackageId>AppLogger_Kuldeep_Singh</PackageId>
+    <Authors>Kuldeep_Singh_Panwar</Authors>
+    <Description>Log any thing you want to log in your app</Description>
+    <NeutralLanguage>en-IN</NeutralLanguage>
+    <PackageTags>Log, Logger, Text, Logging</PackageTags>
+  </PropertyGroup>
+
+</Project>
